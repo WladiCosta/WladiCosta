@@ -1,4 +1,5 @@
 ### Opa, eu sou o Wladimir Costa!
+Estudante de Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/WladiCosta">
