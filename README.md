@@ -1,5 +1,4 @@
-### Opa, eu sou o Wladimir Costa!
-Estudante de Engenharia de Software
+Olá! Meu nome é Wladimir Costa e sou estudante de Engenharia de Software. Atualmente estou buscando oportunidades de estágio ou efetivo para aplicar meus conhecimentos em programação e desenvolvimento de software. Meu foco principal é em desenvolvimento front-end, e tenho habilidades em linguagens como React, HTML, CSS e JavaScript. Estou sempre buscando aprender novas tecnologias e ferramentas para melhorar meu trabalho. Se você está em busca de um desenvolvedor dedicado e motivado, não hesite em entrar em contato comigo!
 
 <div align="center">
   <a href="https://github.com/WladiCosta">
